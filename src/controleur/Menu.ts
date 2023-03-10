@@ -17,7 +17,7 @@ export class Menu {
 
             let jour;
             do {
-                jour = readlineSync.questionInt("Quel jour voulez-vous gérer (1= Décathlon ou 2=Heptathlon ; 0 pour quitter) ? ");
+                jour = readlineSync.questionInt("Quel jour voulez-vous gérer (1 ou 2 ; 0 pour quitter) ? ");
             } while (jour < 0 || jour > 2);
 
             quitter = (jour === 0);
