@@ -1,0 +1,4 @@
+mayer;kévin;fra;1
+frölich;Stefan-josé;ger;156
+roka;zsuzsanna;hun;24
+prevost;arthur;fra;38

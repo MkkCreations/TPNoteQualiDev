@@ -1,0 +1,13 @@
+1;100m;10.5
+156;100m;9
+24;100m;9.5
+38;100m;9.66
+1;Saut en hauteur;2.09
+24;Saut en hauteur;1.99
+38;Saut en hauteur;2.15
+156;Saut en hauteur;2.06
+1;400m;44
+24;400m;48.25
+38;400m;47.9
+1;Saut à la perche;5.5
+38;Saut à la perche;4.6

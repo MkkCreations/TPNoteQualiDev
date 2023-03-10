@@ -1,0 +1,4 @@
+41;100m haies;12.7
+6;100m haies;13.5
+127;100m haies;14.3
+6;Saut en hauteur;2.1
