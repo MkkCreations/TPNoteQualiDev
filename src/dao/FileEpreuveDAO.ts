@@ -13,7 +13,7 @@ export class FileEpreuveDAO {
 
         for (const ligne of lignes) {
             const infoEpreuve = ligne.split(';');
-            console.log(infoEpreuve, lignes);
+
             let recherche = epreuves.filter(e=>e.nom===infoEpreuve[0]);
             if (recherche.length===0) {
                 throw new Error("l'épreuve " + infoEpreuve[0] + " est inconnue dans cette compétition !");
